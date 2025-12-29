@@ -1,16 +1,46 @@
-## Hi there 👋
+# キミラン (Kimiran)
 
-<!--
-**kimito-lunch/kimito-lunch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+営業出身のDX実行者 / DX Practitioner (Sales → DX)  
+現場課題の整理 → 合意形成 → PoC実装（Python / GenAI / Automation）まで伴走します。
 
-Here are some ideas to get you started:
+- Location: Kanagawa, Japan (Tokyo area)
+- Availability: 30–40h/week (Onsite/Remote both OK)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ✅ できること (What I do)
+- **業務ヒアリング・課題の構造化**（現場/管理/経営の意思決定を前に進める合意形成）
+- **PoC開発 → “使える形”まで**（入力設計・例外対応・運用フロー・説明資料）
+- **業務自動化**：Python / Streamlit / Excel入出力（配布形：exe化の経験あり）
+- **GenAI活用**：文書からの抽出・構造化（JSON化）、手順生成、評価観点設計
+- **データ分析・予測**：回帰などの軽量ML、評価・改善提案
+
+---
+
+## 🧩 Featured Projects
+> ※順次公開します（GitHub Pagesで説明資料も公開予定）
+
+- **Shift Auto Scheduler (Streamlit)**  
+  紙・手作業のシフト作成を自動化するPoC。非IT職向けの説明資料（HTML）も整備。  
+  Repo: (準備中) / Docs: (準備中)
+
+- **Workload Forecasting (Regression)**  
+  工数予測のPoC（データ整形 → モデル作成 → 評価 → 改善案）。  
+  Repo: (準備中)
+
+- **Case Studies (Non-public deliverables)**  
+  協業案件のため成果物は非公開ですが、課題・役割・アプローチは公開可能。  
+  Repo: (準備中)
+
+---
+
+## 🛠 Tech Stack
+- Python, Pandas, (scikit-learn)
+- Streamlit
+- Google Colab, VS Code
+- GitHub (Docs / Pages)
+
+---
+
+## 📩 Contact
+- Email: kimito.lunch [at] gmail.com
