@@ -1,4 +1,4 @@
-# キミラン (Kimiran)
+# キミラン (田邉　智) 
 
 営業出身のDX実行者 / DX Practitioner (Sales → DX)  
 現場課題の整理 → 合意形成 → PoC実装（Python / GenAI / Automation）まで伴走します。
